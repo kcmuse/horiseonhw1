@@ -3,10 +3,12 @@
 ## This repository is for a refractored code for a custom webapge
 
 ## Preview image of final design
-![screenshot](.assets/images/Screenshot.png)
+![screenshot](./assets/images/Screenshot.png)
 
 > Most of the original CSS code had redundancies, and no semantic HTML elements
 > The purpose here was to allow better accessability and simplify the already exsisting code
+
+
 
 ### [Click here to view the new webpage](https://kcmuse.github.io/horiseonhw1/)
 
