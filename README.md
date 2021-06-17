@@ -2,7 +2,7 @@
 
 ## This repository is for a refractored code for a custom webapge
 
-## Preview image of final design
+### Preview image of final design
 ![screenshot](./assets/images/Screenshot.png)
 
 > Most of the original CSS code had redundancies, and no semantic HTML elements
